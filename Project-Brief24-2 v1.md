@@ -309,14 +309,14 @@
 
 
 # Team-23
-| (1) 과제명 | XAI와 Quantization을 활용한 Diffusion Model 최적화
+| (1) 과제명 | Quantization based on Layer-wise Activation Analysis in Stable Diffusion Models
 |:---  |---  |
 | (2) 팀 번호 / 팀 이름 | 23-이화도인지 |
-| (3) 팀원 역할 분담 | 김도은(2076035) : 리더, ??? <br> 변지은(2076193) : 팀원, ??? <br> 박인애(2171088) : 팀원, ??? |
-| (4) 팀 지도교수 | 심재형 |
-| (5) 팀 멘토 | ??? / ??? / ??? |
-| (6) 과제 키워드(keywords) | 생성형 AI |
-| (7) 과제 내용 요약 | <과제내용에 대한 요약을 작성 바람니다> |
+| (3) 팀 구성원 | 김도은 (2076035): 리더, *연구 및 논문 작성* <br> 박인애 (2171088): 팀원, *연구 및 논문 작성* <br> 변지은 (2076193) : 팀원, *연구 및 논문 작성*			 |
+| (4) 팀 지도교수 | 심재형 교수님 |
+| (5) 팀 멘토 | 박준석 / 수석 연구원 / 삼성전자 |
+| (6) 과제 키워드 | Diffusion model, Quantization, XAI  |
+| (7) 과제 내용 요약 | 저희는 diffusion model에서 timestep별로 클래스 및 클래스의 클러스터들이 서로 다른 layer를 활성화시키다는 가설에 기반합니다. 연구의 기반 모델로는 현재 널리 사용되는 diffusion model 중 하나인 latent diffusion model 을 채택하였습니다. computing operation time 절감을 주요 목표로 하여, U-Net 구조을 타겟으로 합니다. <br> layer의 활성화 정도를 파악하기 위하여 activation heatmap을 사용하고, saliency map으로 보다 명확한 시각적 패턴을 도출합니다. 또한, Fisher information matrix를 사용하여 weight의 기여도를 정량적으로 평가하고, 특정 클래스 클러스터에서 중요한 layer를 식별합니다. <br> 이렇나 분석 결과를 토대로, computing operation 절감을 위하여 최적화된 quantization 방법을 수립합니다. 구체적으로, U-Net의 up layer와 down layer를 대상으로 선택적 quantization을 적용하고, 중요도가 높은 것으로 판단된 mid layer는 원래의 정밀도를 유지합니다. Quantization 과정에서는 float 형의 bit 수 감소 또는 int 형으로의 자료형 변환 방식을 채택합니다. <br> 본 연구를 통해 XAI 기법과 Diffusion model 의 융합 연구에 대한 새로운 통찰을 제공할 수 있을 것으로 기대됩니다. 더불어, 제안된 quantization 기법을 통해 클래스 특화된 diffusion model의 inference 속도가 향상될 것으로 기대됩니다. |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
