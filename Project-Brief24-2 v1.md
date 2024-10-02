@@ -3,7 +3,7 @@
 |팀번호|팀명|프로젝트|
 |:---|:---|:---|
 |01|[따뜻한코끼리마리오](#team-01)| COMMA: 시청각장애 학습자를 위한 AI 기반 학습 보조 프로그램
-|02|[Smiley](#team-02)| Smile Log: 감정 이해 및 관리를 위한 AI 기반 일기 감정 시각화 및 감정 원인 탐구 챗봇 서비스
+|02|[스마일리](#team-02)| Smile Log: 감정 이해 및 관리를 위한 AI 기반 일기 감정 시각화 및 감정 원인 탐구 챗봇 서비스
 |03|[이대뎅김](#team-03)| 시니어를 위한 LLM과 RAG 기반 맞춤형 여행 챗봇, 체크리스트 서비스
 |04|[티라노](#team-04)| Lightweighting CLIP for Face Anti-Spoofing via Knowledge Distillation
 |05|[그린나래](#team-05)| 노인 인지 기능 저하 예방을 위한 gpt-4o 기반 음성 챗봇 및 일기 생성 서비스
