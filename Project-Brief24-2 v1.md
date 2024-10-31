@@ -138,6 +138,7 @@
 | (5) 팀 멘토 | 최희창 / 대표 / 링크젠 |
 | (6) 과제 키워드(keywords) | 딥러닝, AI, 학습알고리즘 |
 | (7) 과제 내용 요약 | 악기 연주에 대한 피드백을 받고 스스로 연습하고 싶은 사용자를 위한 앱. 사용자가 자유롭게 원하는 음악을 업로드할 수 있으며, Demucs가 악기별로 음원을 분리하여 사용자가 선택한 악기를 연주할 수 있도록 한다.  |
+| (8) 주요 Link | 과제 git address: https://github.com/PP88-bit/2024-capston-team-08 |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
