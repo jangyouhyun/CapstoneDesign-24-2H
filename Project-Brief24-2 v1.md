@@ -124,6 +124,7 @@
 | (5) 팀 멘토 | 이수화 / 코그넷나인 / 박사,전문위원 |
 | (6) 과제 키워드(keywords) | CV,NLP,AI, 데이터베이스 |
 | (7) 과제 내용 요약 | YOU-BOOK은 사용자가 입력한 내용을 기반으로 AI를 활용하여 자서전의 일부분을 대신 작성해주는 대필작가와 같은 역할을 하는 웹서비스입니다. 그 외에도 챗봇이 일반적인 자서전 속 내용을 유도하는 질문을 사용자와 주고 받으며, 사용자의 답변 또한 자서전의 일부분으로 제작해줍니다. 또, 자서전 제작에 있어서 사용자의 참여도를 높이기 위해 사용자가 생성된 글의 내용을 직접 수정할 수 있으며, 문단의 위치, 글꼴, 글의 색상, 표지 등을 사용자가 직접 설정할 수 있습니다. |
+| (8) 주요 Link | 과제 git address: https://github.com/jangyouhyun/Stairs <br> 과제 보고서: (https://github.com/jangyouhyun/Stairs/blob/main/%EB%B3%B4%EA%B3%A0%EC%84%9C/1%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C/07-%EA%B3%84%EB%8B%A8-1%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-v0.md) |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
